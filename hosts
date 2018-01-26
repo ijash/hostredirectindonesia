@@ -40,7 +40,11 @@ ff02::2 ip6-allrouters
 209.58.183.19			s217.kbagi.com
 209.58.183.20			s218.kbagi.com
 209.58.183.21			s219.kbagi.com
-151.101.53.140			reddit.com www.reddit.com m.reddit.com np.reddit.com nm.reddit.com t.reddit.com api.reddit.com
+151.101.53.140		reddit.com www.reddit.com m.reddit.com np.reddit.com nm.reddit.com t.reddit.com api.reddit.com bt.reddit.com
+107.23.11.190     out.reddit.com
+151.101.129.140   oauth.reddit.com
+151.101.129.140   gateway.reddit.com
+151.101.45.140    ssl.reddit.com
 149.154.167.99			telegram.org
 149.154.167.99			desktop.telegram.org
 149.154.167.99			core.telegram.org
